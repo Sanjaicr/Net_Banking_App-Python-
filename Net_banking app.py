@@ -110,7 +110,7 @@ while True:
                     print("Invalid Password!,Try again!.....\n")
                 
         elif signin==2:
-            user=input("Enter your username:")
+            user=input("Enter your username:").title()
             pas=input("Enter your password:")
 
             login_in=False
@@ -158,5 +158,6 @@ while True:
     except:
         print("Invalid input.Try again!\n")    
     
+
 
 
