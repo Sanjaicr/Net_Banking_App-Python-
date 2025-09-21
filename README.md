@@ -8,5 +8,5 @@ A CLI-based Net Banking App built in Python, demonstrating **OOP, File Handling,
 - Exception Handling for smooth user experience
 
 ## 🔹 Tech Stack
-- Python (OOP, File Handling, CLI)
+- Python (OOP, File Handling,Error Handling, CLI)
 
