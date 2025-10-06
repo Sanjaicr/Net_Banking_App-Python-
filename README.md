@@ -74,18 +74,18 @@ Each transaction is recorded in `<username>_transaction`.
 ---
 
 ## 💾 Example Run
-Welcome to net banking app!
+- Welcome to net banking app!
     ----Mainmenu----
-1.Register
-2.Login
-3.Exit
+- 1.Register
+- 2.Login
+- 3.Exit
 
-Choose your option(1-3): 1
-Enter your username: Sanjai
-Character must be 8 or more and contain at least one digit and one uppercase letter
-Enter your password: Sanjai123
-Strong password
-Registered Successfully
+- Choose your option(1-3): 1
+- Enter your username: Sanjai
+- Character must be 8 or more and contain at least one digit and one uppercase letter
+- Enter your password: Sanjai123
+- Strong password
+- Registered Successfully
 
 Choose your option(1-3): 2
 Enter your username: Sanjai
