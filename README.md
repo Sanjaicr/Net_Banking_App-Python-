@@ -1,12 +1,31 @@
-# Net Banking Application (Python)
-A CLI-based Net Banking App built in Python, demonstrating **OOP, File Handling, and Error Handling**.
+# 💻 Net Banking Application (Python)
 
-## 🔹 Features
-- User Registration & Login
-- Deposit & Withdraw with balance updates
-- Transaction History (persistent storage in text files)
-- Exception Handling for smooth user experience
+## 📋 Overview
+The **Net Banking App** is a simple command-line Python application that simulates basic online banking operations.  
+Users can register, log in, deposit money, withdraw funds, check balances, and view transaction histories — all stored locally as text files.  
+This project demonstrates **file handling**, **object-oriented programming (OOP)**, **data validation**, and **user authentication** in Python.
 
-## 🔹 Tech Stack
-- Python (OOP, File Handling,Error Handling, CLI)
+---
 
+## 🚀 Features
+✅ **User Registration & Login System**  
+- Secure user credentials stored locally (`customer_details` file).  
+- Password validation (minimum 8 characters, at least one uppercase letter and one digit).  
+
+✅ **Banking Operations**  
+- Deposit funds  
+- Withdraw funds  
+- View account balance  
+- View transaction history  
+
+✅ **Transaction Logging**  
+- Each user has a dedicated transaction file (`<username>_transaction`).  
+- Every transaction includes a timestamp, description, and updated balance.  
+
+✅ **Error Handling & Validation**  
+- Handles invalid inputs gracefully.  
+- Ensures file existence and data integrity on each session.
+
+---
+
+## 🧩 Project Structure
